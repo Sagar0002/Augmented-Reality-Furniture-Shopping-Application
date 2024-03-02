@@ -1,4 +1,4 @@
-# Androis Application
+# Android Application
 
 A new Flutter project.
 
